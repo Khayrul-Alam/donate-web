@@ -1,0 +1,181 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.top-banner{
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    padding: 10%;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 400px;
+
+}
+#para-1{
+    margin: auto;
+    width: 25%
+    padding-bottom: 40px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: coral;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.section-intro {
+    text-align: center;
+    font-size: xx-large;
+    padding: 10%;
+    padding-top: 5%;
+    padding-bottom: 0%;
+}
+
+.amount-div {
+    display: flex;
+}
+#tk100 {
+    margin-left: 30%;
+    margin-right: .5%;
+}
+.donate-amount {
+    text-align: center;
+    font-size: large;
+    width: 3%;
+    margin: 5%;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 15px;
+    background-color: rgb(255, 247, 247);
+    border-radius: 10px;
+}
+
+#red-border {
+    color: red;
+    border: 2px solid red;
+}
+
+.other-donate-amount {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.other-amount {
+    width: 80%;
+    color: rgb(136, 136, 136);
+    text-align: center;
+    font-size: large;
+    border: none;
+    border-bottom: 2px solid rgb(136, 136, 136);
+    margin-bottom: 30px;
+}
+
+.plans {
+    display: flex;
+}
+
+.plans-details {
+    width: 40%;
+    padding: 2%;
+    margin: 0%;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+.service-details img {
+    height: 70px;
+    width: 90px;
+}
+
+#food {
+    margin-left: 20%;
+    margin-right: 0.5%;
+    background-color: rgb(255, 230, 198);
+}
+
+#shelter {
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    background-color: rgb(203, 210, 255);
+}
+
+#education {
+    margin-left: 0.5%;
+    margin-right: 20%;
+    background-color: rgb(255, 235, 202);
+}
+
+.lives-depend {
+    display: flex;
+}
+
+.depend {
+    width: 50%;
+    text-align: justify;
+    font-size: large;
+    margin: 5%;
+}
+
+.depend img {
+    height: 400px;
+    width: 550px;
+}
+
+.survive {
+    display: flex;
+}
+
+.need {
+    width: 50%;
+    text-align: justify;
+    font-size: large;
+    margin: 5%;
+}
+
+.need img {
+    height: 400px;
+    width: 550px;
+}
+
+.subscribe {
+    margin: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgb(255, 241, 223);
+    padding: 5%;
+}
+
+#email-button {
+    background-color: rgb(216, 216, 216);
+    height: 40px;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#subscribe-button {
+    height: 40px;
+    width: 75px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    background-color: coral;
+}
+
+#footer {
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    font-size: large;
+    background-color: rgb(3, 3, 32);
+    padding: 5px;
+}
